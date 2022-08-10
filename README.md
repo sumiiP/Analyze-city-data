@@ -4,15 +4,6 @@
 - used editor : google colab
 - provided Data : Excel
 
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/100674026/183880645-0ba187bd-ecf2-4122-88d2-f29b855a3b85.png)
-
-
-![image](https://user-images.githubusercontent.com/100674026/183880703-f5f5e618-c0ed-446b-89d7-11a11151730b.png)
-
-
-![image](https://user-images.githubusercontent.com/100674026/183880750-cf38a498-d16d-43e0-891d-1ff319c8e2ed.png)
+![image](https://user-images.githubusercontent.com/100674026/183881334-22081f9f-2809-4755-b746-b56db57cfe15.png)
+![image](https://user-images.githubusercontent.com/100674026/183881374-7f9f6cf8-5814-4e2f-a8ac-1495e2f7b0ff.png)
+![image](https://user-images.githubusercontent.com/100674026/183881419-2134dc3e-19d6-41b4-85c6-3a6666b8a64c.png)
